@@ -1,2 +1,2 @@
-dislash.py
+nextcord
 sphinx_pdj_theme
